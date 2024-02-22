@@ -1,0 +1,29 @@
+.footer {
+    background-color: #000000;
+    color: #a026f1;
+    padding: 1em;
+    text-align: center;
+  }
+  
+  .footer-content {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .social-icons a {
+    color: #a026f1;
+    margin: 0 10px;
+    font-size: 24px;
+    text-decoration: none;
+  }
+  
+  .social-icons a:hover {
+    color: #ddd;
+  }
+  
+  /* You may need to include the Font Awesome CSS or install the Font Awesome library */
+  /* Example for including Font Awesome in your project: */
+  /* Add this line to your index.html or install the library: */
+  /* <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha384-kJy3BHU8P1NlkI5Ae6M2QvTvBC1RlXwD2tZ1kpvnyPDx3ZlX3/Jm" crossorigin="anonymous"> */
+  
+  

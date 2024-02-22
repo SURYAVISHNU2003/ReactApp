@@ -1,0 +1,44 @@
+.header {
+    background-color:black;
+    color: white;
+    padding-bottom:-100px;
+    text-align: center;
+
+  }
+  
+  .header h1 {
+    position: relative;
+    left: 180px;
+    margin: 0;
+  }
+  
+  .topnav {
+    overflow: hidden;
+    padding-left: 320px;
+    background-color: black;
+  }
+  
+  .topnav a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: right;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  .topnav a:active{
+    border-bottom: 5px solid  purple;
+  }
+  .topnav a:hover{
+    border-bottom: 5px solid 	purple;
+  }
+  
+  @media screen and (max-width: 600px) {
+    .topnav a {
+      float: none;
+      display: block;
+      width: 100%;
+      text-align: left;
+    }
+  }
+   
